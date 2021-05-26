@@ -1,0 +1,154 @@
+[
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=440074-433984-434489-415625-440078-434472-434486-440075-440077-433601-415628-433997-462177-462452-462178-440076-434477-434466-433604-434490&insurance_sector=public&practice_ids=164922&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164922"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=407696-418656&insurance_sector=public&practice_ids=164925&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164925"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=415635-415634-415630-434163-434159-434175-434179&insurance_sector=public&practice_ids=164812&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164812"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=434411-434414-434515-433204-434413-434514-415620-441863-434516-434412&insurance_sector=public&practice_ids=164924&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164924"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=434425-440000-434424-414972-415617-434428-434423-434051-433571-434430-415619-434433-434452-434455-434435-464341-434456-434458-434437-434449-434421-434420&insurance_sector=public&practice_ids=164926&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164926"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=440654-447048-434343-475255-463168-429620-463171-462614-434052-440655-462613-434338-433994-415613-463167-475254-415615-463170-434337-463166&insurance_sector=public&practice_ids=166459&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-166459"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=434432-434426-434434-462901-434431-434427-434429&insurance_sector=public&practice_ids=175177&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-175177"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549915&agenda_ids=441742-448950-448946-462658-439859-441741-439860-438595-448954-447599-448957-448952&insurance_sector=public&practice_ids=176642&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-176642"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549920&agenda_ids=434425-434424-415617-434428-434423-433571-434430-434433-434452-434455-464341-434449-434421-434420&insurance_sector=public&practice_ids=164926&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-164926"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549920&agenda_ids=440654-447048-434343-463168-429620-463171-462614-434052-440655-462613-434338-433994-415613-463167-415615-463170-434337-463166&insurance_sector=public&practice_ids=166459&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-166459"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549920&agenda_ids=441742-448950-448946-462658-439859-441741-439860-438595-448954-447599-448957-448952&insurance_sector=public&practice_ids=176642&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ville-de-paris?pid=practice-176642"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2860338&agenda_ids=409357&insurance_sector=public&practice_ids=124877&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-covid19-paris-5?pid=practice-124877"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2551398&agenda_ids=411636-411957-439808-432671-414727&insurance_sector=public&practice_ids=179218&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-mairie-du-7eme-paris?pid=practice-179218"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2840463&agenda_ids=411901-434355-454974-411900-432437-411898-454973&insurance_sector=public&practice_ids=165089&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-paris-8e?pid=practice-165089"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2548398&agenda_ids=442007-410722&insurance_sector=public&practice_ids=164617&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-mairie-du-9eme-arrondissement?pid=practice-164617"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2551523&agenda_ids=411699&insurance_sector=public&practice_ids=165042&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-centre-medical-international-cmi?pid=practice-165042"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2840830&agenda_ids=468337&insurance_sector=public&practice_ids=165042&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-centre-medical-international-cmi?pid=practice-165042"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2554449&agenda_ids=418046-412688-412687&insurance_sector=public&practice_ids=165403&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-centre-de-sante-bauchat-nation?pid=practice-165403"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2548939&agenda_ids=466677-410948-466673-412039-466679-466676-466680-412036-466675&insurance_sector=public&practice_ids=164733&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-paris-14e?pid=practice-164733"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2548939&agenda_ids=466749-466744-466746-466748&insurance_sector=public&practice_ids=185173&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-paris-14e?pid=practice-185173"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2549775&agenda_ids=411154-411935-423750-411937&insurance_sector=public&practice_ids=164810&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-medical-institut-pasteur-cmip-vaccination-covid-19?pid=practice-164810"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2835739&agenda_ids=411154-464512-411935-423750-411937&insurance_sector=public&practice_ids=164810&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-medical-institut-pasteur-cmip-vaccination-covid-19?pid=practice-164810"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2552122&agenda_ids=412013-412427-412651-432679-417116-427281&insurance_sector=public&practice_ids=165139&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-centre-henry-dunant-croix-rouge-francaise?pid=practice-165139"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2553445&agenda_ids=472339-472341-412405-462686-434831-425344-472340-462687-464260-462683-425345-412409-412407-435300&insurance_sector=public&practice_ids=165280&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-paris-15e?pid=practice-165280"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2701634&agenda_ids=444603-442111-467649-439605-439606&insurance_sector=public&practice_ids=176976&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-mairie-du-16eme-arrondissement?pid=practice-176976"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2697927&agenda_ids=443556-453863-438619-438621&insurance_sector=public&practice_ids=176666&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-paris-17eme?pid=practice-176666"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2836421&agenda_ids=469352&insurance_sector=public&practice_ids=176666&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-paris-17eme?pid=practice-176666"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2554319&agenda_ids=465149-423723-415462-412564-464384-412566-437152-432746&insurance_sector=public&practice_ids=165129&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/sos-medecins-paris?pid=practice-165129"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2726262&agenda_ids=475036-470421-425392-425408-470420-436935-467729&insurance_sector=public&practice_ids=164740&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/ars-idf-centre-covisan-cpts-paris-18?pid=practice-164740"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2816532&agenda_ids=475036-470421-425392-425408-470420-436935-467729&insurance_sector=public&practice_ids=164740&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/ars-idf-centre-covisan-cpts-paris-18?pid=practice-164740"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2735278&agenda_ids=447375-447378-447376-447377-447373&insurance_sector=public&practice_ids=179894&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2735280&agenda_ids=450180-450173-450174-450179-450181-450177-450176-450178-450175&insurance_sector=public&practice_ids=179894&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-stade-de-france?pid=practice-179894"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2696672&agenda_ids=475614-475616-443646-438313&insurance_sector=public&practice_ids=176560&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-ivry-sur-seine?pid=practice-176560"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2734033&agenda_ids=454457-454458-454460-466936-466937-466938-447140-447141-447142&insurance_sector=public&practice_ids=179776&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-vitry-sur-seine?pid=practice-179776"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2550183&agenda_ids=411279-411278-476061-463647&insurance_sector=public&practice_ids=164848&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-ambulatoire-d-alfortville-reserve-aux-professionnels-de-sante?pid=practice-164848"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2686887&agenda_ids=472762&insurance_sector=public&practice_ids=175848&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-19-choisy-le-roi?pid=practice-175848"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2555463&agenda_ids=448106-448111-471675-471672-471680-412699-412697-471681&insurance_sector=public&practice_ids=165411&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccination-covid-ville-de-creteil?pid=practice-165411"
+    },
+    {
+        "xhrLink": "https://www.doctolib.fr/availabilities.json?start_date=2020-05-20&visit_motive_ids=2535227&agenda_ids=433521-433533-446545&insurance_sector=public&practice_ids=163548&destroy_temporary=true&limit=2",
+        "bookingLink": "https://www.doctolib.fr/centre-de-vaccinations-covid-saint-mande?pid=practice-163548"
+    }
+]
